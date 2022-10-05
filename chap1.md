@@ -85,9 +85,6 @@
       - 측정이 쉽고 이해가 쉬움.
       - 예측치 계산 식 구글링해서 외우기. 
 
-<img src = "https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Fkjjy7%2F220857331657&psig=AOvVaw3Iz-24jkPE30fG6ufZl1Uh&ust=1665073695225000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiPhITByfoCFQAAAAAdAAAAABAD">
-
-
 
     - Man Month 모형
       - 한사람이 1개월 동안 할 수 있는 양을 기준으로 프로젝트 비용 산정. 
