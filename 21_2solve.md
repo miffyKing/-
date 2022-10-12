@@ -25,6 +25,15 @@
 - **DRDoS** (Distributed Reflection DoS)
   - 공격자는 출발지 IP 를 공격대상 IP로 위조하여 다수의 반사 서버로 요청 정보를 전송, 공격 대상자는 반사 서버로부터 다량의 응답을 받아서 서비스 거부 (DoS)가 되는 공격.
 
+- **애플리케이션 공격**
+  - DDoS 서비스 마비 공격
+  - HTTP GET 플러딩 - 과도한 get 메시지 이용 웹 서버의 과부하 유발
+  - Slowloris -  (Slow HTTP header dos) 헤더의 최종 긑을 알리는 개행 문자열을 전송 X, 대상 웹 서버와 연결상태를 ㅈ아시간 지속
+  - RUDY - (Skow HTTP POST DoS) content length 를 비정상적으로 크게 설정, 연결상태 유지
+  - Slow HTTP Read
+  - Hulk DoS
+
+
 - **네트워크 공격**
   - **스니핑**  - 공격대상에게 직접 공격 않고 데이터만 몰래 들여다보는 수동적 공격
   - **네트워크 스캐너** - 공격자가 hw, sw 구성 취약점을 탐색하는 공격 도구
